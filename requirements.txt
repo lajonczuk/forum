@@ -1,0 +1,4 @@
+Django==1.8
+dj-database-url==0.3.0
+django-extensions==1.7.5
+django-rocket-engine==0.0.11
